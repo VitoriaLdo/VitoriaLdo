@@ -2,7 +2,7 @@
 
 **`Desenvolvedora de Sistemas`**
 
-Me chamo Vitória Letícia de Oliveira, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio técnico em Desenvolvimento de Sistemas. Atualmente, busco oportunidades para aplicar e expandir meus conhecimentos na área de tecnologia. Estou focada no estudo e aprimoramento das seguintes tecnologias: HTML, CSS, JavaScript, React. 
+Me chamo Vitória Letícia de Oliveira, tenho 19 anos e sou natural de Minas Gerais. Concluí o ensino médio técnico em Desenvolvimento de Sistemas. Atualmente, busco oportunidades para aplicar e expandir meus conhecimentos na área de tecnologia. Estou focada no estudo e aprimoramento das seguintes tecnologias: C# e Java. 
 
 ---
 
